@@ -7,3 +7,9 @@ generic TCP connection on localhost using python
 ## how to use
 run TCPServer, then TCPClient
 finally type something on client side so that u will have the result bacc
+
+Client:
+![Imgur](https://imgur.com/VK0ZuZt)
+
+Server:
+![Imgur](https://imgur.com/TEfSpXQ)
