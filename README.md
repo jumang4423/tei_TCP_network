@@ -8,8 +8,8 @@ generic TCP connection on localhost using python
 run TCPServer, then TCPClient
 finally type something on client side so that u will have the result bacc
 
-Client:
-![Imgur](https://imgur.com/VK0ZuZt)
+TCPClient:
+![client](_image/cli.png)
 
-Server:
-![Imgur](https://imgur.com/TEfSpXQ)
+TCPServer:
+![server](_image/ser.png)
